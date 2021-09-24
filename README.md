@@ -1,4 +1,4 @@
-# ECC Extend Business Process Scenario
+# ECC Extend Business Process 
 
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/cloud-extension-ecc-business-process)](https://api.reuse.software/info/github.com/SAP-samples/cloud-extension-ecc-business-process)
 
